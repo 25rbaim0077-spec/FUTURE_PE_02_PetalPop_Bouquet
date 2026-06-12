@@ -1,0 +1,14 @@
+Adapt the same UGC ad content for different platforms:
+
+1. Instagram Reels
+2. Facebook Ads
+3. YouTube Shorts
+
+Business: PetalPop Bouquet
+
+Requirements:
+- Maintain authentic UGC tone
+- Keep emotional storytelling
+- Focus on conversions
+- Use platform-specific style
+- Include a clear CTA
