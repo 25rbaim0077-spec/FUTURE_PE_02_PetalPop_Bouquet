@@ -1,0 +1,22 @@
+Create a 30-second UGC ad script.
+
+Business: PetalPop Bouquet
+
+Scenario:
+A stressed student is studying in a café. Her boyfriend surprises her with a customized bouquet.
+
+Framework:
+Hook → Problem → Solution → CTA
+
+Tone:
+
+- Authentic
+- Emotional
+- Natural
+- Non-salesy
+
+Output:
+
+1. Hook
+2. UGC Script
+3. CTA
